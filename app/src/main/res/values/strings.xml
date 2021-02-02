@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JobsApp</string>
+    <string name="network_connection_error">
+        Internet connection lost, please retry again</string>
+</resources>
